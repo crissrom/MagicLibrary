@@ -39,6 +39,9 @@ public class MagicLibrary {
 		
 		log.info("Arranco la aplicaci�n y creo el controlador para manejar entidades desde la interfaz");
 		log.info("Traza desde main");
+
+		log.info("Traza desde la practica 8 V2");
+
 		log.log(Level.INFO, "Arranco la aplicaci�n y creo el controlador para manejar entidades desde la interfaz");
 
 		bookListener=new BookListener();
